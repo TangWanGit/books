@@ -1,0 +1,3 @@
+[submodule "book-end"]
+    path = book-end
+    url = git://github.com/TangWanGit/books.git
